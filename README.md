@@ -38,6 +38,9 @@ The app verifies size and SHA-256 from its bundled catalog before installing.
 | Rondônia | `ro-2026-10-13` |
 | Roraima | `rr-2026-10-13` |
 | Santa Catarina | `sc-2026-10-13` |
+| Sergipe | `se-2026-10-13` |
+| São Paulo | `sp-2026-10-13` |
+| Tocantins | `to-2026-10-13` |
 
 ## License
 
