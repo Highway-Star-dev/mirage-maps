@@ -14,7 +14,26 @@ The app verifies size and SHA-256 from its bundled catalog before installing.
 
 | State | Release |
 | --- | --- |
+| Acre | `ac-2026-10-13` |
+| Alagoas | `al-2026-10-13` |
+| Amapá | `ap-2026-10-13` |
+| Amazonas | `am-2026-10-13` |
+| Bahia | `ba-2026-10-13` |
+| Ceará | `ce-2026-10-13` |
+| Distrito Federal | `df-2026-10-13` |
+| Espírito Santo | `es-2026-10-13` |
+| Goiás | `go-2026-10-13` |
+| Maranhão | `ma-2026-10-13` |
+| Mato Grosso | `mt-2026-10-13` |
+| Mato Grosso do Sul | `ms-2026-10-13` |
 | Minas Gerais | `mg-2026-10-13` |
+| Paraná | `pr-2026-10-13` |
+| Paraíba | `pb-2026-10-13` |
+| Pará | `pa-2026-10-13` |
+| Pernambuco | `pe-2026-10-13` |
+| Piauí | `pi-2026-10-13` |
+| Rio Grande do Norte | `rn-2026-10-13` |
+| Rio de Janeiro | `rj-2026-10-13` |
 
 ## License
 
