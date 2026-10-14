@@ -33,7 +33,11 @@ The app verifies size and SHA-256 from its bundled catalog before installing.
 | Pernambuco | `pe-2026-10-13` |
 | Piauí | `pi-2026-10-13` |
 | Rio Grande do Norte | `rn-2026-10-13` |
+| Rio Grande do Sul | `rs-2026-10-13` |
 | Rio de Janeiro | `rj-2026-10-13` |
+| Rondônia | `ro-2026-10-13` |
+| Roraima | `rr-2026-10-13` |
+| Santa Catarina | `sc-2026-10-13` |
 
 ## License
 
