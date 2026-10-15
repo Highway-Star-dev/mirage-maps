@@ -16,11 +16,11 @@ The app downloads one package per region:
 
 | Region | Release |
 | --- | --- |
-| Norte | `norte-2026-10-13` |
-| Nordeste | `nordeste-2026-10-13` |
-| Centro-Oeste | `centro-oeste-2026-10-13` |
-| Sudeste | `sudeste-2026-10-13` |
-| Sul | `sul-2026-10-13` |
+| Norte | `norte-2026-10-15-r2` |
+| Nordeste | `nordeste-2026-10-15-r2` |
+| Centro-Oeste | `centro-oeste-2026-10-15-r2` |
+| Sudeste | `sudeste-2026-10-15-r2` |
+| Sul | `sul-2026-10-15-r2` |
 
 Per-state releases (`<uf>-2026-10-13`) stay published for manual import.
 
